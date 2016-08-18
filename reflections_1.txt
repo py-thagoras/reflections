@@ -1,0 +1,14 @@
+Reflections on GIT course - Lesson 1
+
+Commands learned:
+
+git help
+git clone
+git commit
+git config
+git log
+git diff
+
+Bash:
+cd ~    back to root folder
+mv filename 1 filename 2   move or rename a file 
