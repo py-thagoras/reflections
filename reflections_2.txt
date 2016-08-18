@@ -4,3 +4,12 @@ git init       creates the hidden  .git directory which contains metadata
 
 git status
 
+git diff
+
+git diff --staged
+
+git diff commitid1 commitid2
+
+git branch
+
+
